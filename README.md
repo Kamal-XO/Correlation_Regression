@@ -1,3 +1,8 @@
+```
+Date :
+Exp no :                                             Developed by : Kamalesh SV
+                                                     Register number : 212222240041
+```
 # Correlation and regression for data analysis
 # Aim : 
 
@@ -23,7 +28,12 @@ If y represents the dependent variable and x the independent variable, this rela
 
 ![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
 
+#OUTPUT:
+
+![240576393-b7d1840e-940b-4520-ab4a-667348f111a6](https://github.com/H515piyush/Correlation_Regression/assets/147472999/dd8b06ec-e580-4363-9b2c-fa3e10cdcf64)
+
 
 # Result
+The Correlation and regression for data analysis of objects from feeder using probability distribution are calculated.
 
-# Output 
+
